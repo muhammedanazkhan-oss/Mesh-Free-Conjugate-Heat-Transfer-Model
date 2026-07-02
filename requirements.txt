@@ -1,0 +1,8 @@
+# core
+numpy>=1.23
+scipy>=1.9
+matplotlib>=3.6
+# PINN solver
+torch>=2.0
+# optional: original framework used in the paper (the reference solver here is pure PyTorch)
+# deepxde>=1.11

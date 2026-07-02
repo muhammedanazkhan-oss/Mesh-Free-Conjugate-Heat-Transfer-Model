@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite it as below."
+type: software
+title: "PINN-MCHS: Mesh-free conjugate-interface physics-informed neural network for hybrid-nanofluid microchannel heat sinks"
+version: 1.0.0
+date-released: "2026-07-02"
+license: MIT
+doi: "10.5281/zenodo.XXXXXXX"   # replace with the DOI issued by Zenodo
+repository-code: "https://github.com/USERNAME/pinn-mchs-hybrid-nanofluid"
+authors:
+  - family-names: "Khan"
+    given-names: "Muhammed Anaz"
+    email: "mkhan@ub.edu.sa"
+    orcid: "https://orcid.org/0000-0002-8837-9865"
+    affiliation: "Department of Mechanical Engineering, College of Engineering, University of Bisha, Bisha 61922, P.O. Box 551, Saudi Arabia"
+keywords:
+  - physics-informed neural network
+  - conjugate heat transfer
+  - microchannel heat sink
+  - hybrid nanofluid
+  - mesh-free surrogate
+  - electronics cooling

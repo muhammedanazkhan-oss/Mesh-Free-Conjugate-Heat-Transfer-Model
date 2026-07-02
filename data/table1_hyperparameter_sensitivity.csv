@@ -1,0 +1,13 @@
+setting,variant,Nu_avg,L2_velocity_error_pct
+hidden_layers,4,7.28,1.63
+hidden_layers,6 (baseline),7.37,1.15
+hidden_layers,8,7.38,1.12
+neurons_per_layer,40,7.29,1.66
+neurons_per_layer,60 (baseline),7.37,1.15
+neurons_per_layer,80,7.39,1.1
+activation,tanh (baseline),7.37,1.15
+activation,sin,7.41,1.48
+activation,swish,7.44,1.55
+resample_every,250,7.38,1.13
+resample_every,500 (baseline),7.37,1.15
+resample_every,1000,7.34,1.22
